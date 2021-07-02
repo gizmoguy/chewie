@@ -14,7 +14,7 @@ chewie is not compatible with python 2, please upgrade to python 3.5 or newer.""
     sys.exit(1)
 
 setup(
-    name='chewie',
+    name='gizmoguy-chewie',
     setup_requires=['pbr>=1.9', 'setuptools>=17.1'],
     python_requires='>=3.5',
     pbr=True
